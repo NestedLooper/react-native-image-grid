@@ -1,9 +1,9 @@
 'use strict';
 
 import React, { Component } from 'react';
+import ListView from 'deprecated-react-native-listview';
 import {
     Dimensions,
-    ListView,
     StyleSheet,
     View,
 } from 'react-native';

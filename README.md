@@ -1,4 +1,5 @@
 # react-native-image-grid
+## * Updated to use deprecated-react-native-listview *
 React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row
 
 ## Install
